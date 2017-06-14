@@ -1,8 +1,9 @@
-Johnny Coder
-============
+Jonathan Rusk
+=============
 
 ----
 
+>  Will work for food.
 >  In this style, the resume starts with a blockquote, where
 >  you can briefly list your specialties, or include a salient
 >  quote. Ending a line with a backslash forces a line break.
@@ -12,22 +13,17 @@ Johnny Coder
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2004-2006
+:   **Bachelor of Science**; DeVry University (Phoenix, AZ)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+    *foo bar*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Chromis Technology, Founder, co-owner, President:**
+
+Open source telephony, sales, installation, support, software development.
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
@@ -61,7 +57,7 @@ Open Source
     your idea...
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
+:   **Python:** Here, we have an itemization, where we only want
     to add descriptions to the first few items, but still want to
     mention some others together at the end. A format that works well
     here is a description list where the first few items have their
@@ -69,15 +65,9 @@ Programming Languages
     emphasized terms. Notice the reasonably nice page break in the pdf
     version, which wouldn't happen if we generated the pdf via html.
 
-:   **second-lang:** Description of your experience with second-lang,
+:   **Javascript:** Description of your experience with second-lang,
     perhaps again including a [link] [ref], this time placing the url
     reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
@@ -87,8 +77,7 @@ Extra Section, Call it Whatever You Want
 * Human Languages:
 
      * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+     * Spanish
 
 * Random tidbit
 
@@ -96,5 +85,5 @@ Extra Section, Call it Whatever You Want
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <jrusk@chromis.com> • +1 602 819 4607 • 42 years old\
+> Phoenix, AZ USA
