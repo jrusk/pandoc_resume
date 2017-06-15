@@ -22,11 +22,11 @@ Experience
 
 
 
-Open source telephony, sales, installation, support, software development. I started Chromis to provide open source telephony services and products. Chromis is 9 years old. The past 2 years I've created software for our existing customers as well as working towards a product to reach a wider market.
+Open source telephony, sales, installation, support, software development. I started Chromis in 2008 to help customers with open source telephony but in the past 2 years I've been moving Chromis towards software development. I created software for our existing customers as well as working towards side products so that we can reach a wider market.
 
 Following are examples of my work:
 
-* Asterisk VoIP solutions (open source telephony) - pre sales engineering, sales, installation, technical support, custom integrations
+* Asterisk-based VoIP solutions (open source telephony, [http://www.asterisk.org](http://www.asterisk.org)) - pre sales engineering, sales, installation, technical support, custom integrations
 
 * [Frontnumber.com](https://www.frontnumber.com). Web app to buy numbers, forward SMS and voice, and message using a web front end. Uses Twilio Numbers, Voice, Messaging; Bandwidth.com Numbers, Voice, Messaging; Plivo Numbers, Voice, Messaging. Frontnumber uses multiple providers to increase the breadth of available numbers. Technologies: Python Flask, Redis, Postgres, JavaScript, ReactJS, Bootstrap, Docker, gunicorn, nginx, haproxy, certbot.
 
