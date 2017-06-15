@@ -26,7 +26,7 @@ Open source telephony, pre sales engineering, sales, installation, support, soft
 
 Following are examples of my work:
 
-* Organizations I've serviced at Chromis: Orange Lake Resorts, Symantec, Clark County School District, Interthinx (acquired by First American Mortgage Solutions), Northrop Grumman, Tucson Orthopaedic Institute, Goodwill of Central Arizona, Basis Charter Schools
+* Organizations I've serviced at Chromis: Orange Lake Resorts, Symantec, Clark County School District, Interthinx (acquired by First American Mortgage Solutions), Northrop Grumman, Tucson Orthopaedic Institute, Goodwill of Central Arizona, Basis Charter Schools, Client Focus
 
 * [Frontnumber.com](https://www.frontnumber.com). Web app to buy numbers, forward SMS and voice, and message using a web front end. Uses Twilio Numbers, Voice, Messaging; Bandwidth.com Numbers, Voice, Messaging; Plivo Numbers, Voice, Messaging. Frontnumber uses multiple providers to increase the breadth of available numbers. Technologies: Python Flask, Redis, Postgres, JavaScript, ReactJS, Bootstrap, Docker, gunicorn, nginx, haproxy, certbot.
 
@@ -70,5 +70,5 @@ Info
 
 ----
 
-> <jrusk@chromis.com> • +1 602 819 4607 • 42 years old\
+> <jrusk@chromis.com> • +16028194607 • 42 years old\
 > Phoenix, AZ USA
