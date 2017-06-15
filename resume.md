@@ -8,25 +8,25 @@ Experience
 
 **Chromis Technology, Founder, President (2008-present):**
 
-Open source telephony, pre sales engineering, sales, installation, support, software development. I started [Chromis](https://chromis.com) in 2008 to help customers with open source telephony and during the past 2 years I am moving Chromis towards software development. I create software for our existing customers as well as side products to reach new markets. The technologies used include: Python, JavaScript, ReactJS, Bootstrap, Semantic UI, Redis, PostgreSQL, Docker, Gunicorn, NGINX, HAProxy, Certbot, consuming and creating RESTful APIs.
+Open source telephony, pre sales engineering, sales, installation, support, software development. I create software for our existing customers as well as side products to reach new markets. The technologies used include: Python, JavaScript, ReactJS, Bootstrap, Semantic UI, Redis, PostgreSQL, Docker, Gunicorn, NGINX, HAProxy, Certbot, consuming and creating RESTful APIs.
 
 Following are examples of my work:
 
-* Organizations I've helped: Orange Lake Resorts, Symantec, Clark County School District, Interthinx (acquired by First American Mortgage Solutions), Northrop Grumman, Tucson Orthopaedic Institute, Goodwill of Central Arizona, Basis Charter Schools, Client Focus
+* Customers: Orange Lake Resorts, Symantec, Clark County School District, Interthinx (acquired by First American Mortgage Solutions), Northrop Grumman, Tucson Orthopaedic Institute, Goodwill of Central Arizona, Basis Charter Schools, Client Focus
 
-* [Frontnumber.com](https://www.frontnumber.com). Web app to buy numbers, forward SMS and voice, and message using a web front end. Uses Twilio Numbers, Voice, Messaging; Bandwidth.com Numbers, Voice, Messaging; Plivo Numbers, Voice, Messaging. Frontnumber uses multiple providers to increase the breadth of available numbers.
+* [Frontnumber.com](https://www.frontnumber.com). Web app to buy numbers, forward SMS and voice, web messaging front end. Uses Twilio Numbers, Voice, Messaging; Bandwidth.com Numbers, Voice, Messaging; Plivo Numbers, Voice, Messaging. Frontnumber uses multiple providers to increase the breadth of available numbers.
 
 * [PhoneX.io](https://www.phonex.io). Web app to use a browser to make calls to a North American phone number. Uses Twilio Voice and Client.
 
-* [ChromisNumber](https://www.chromisvoip.com). Twilio-powered communications for Chromis. Uses Twilio Numbers, Voice, Messaging, Taskrouter, Twiml, Chat.
+* [ChromisNumber](https://www.chromisvoip.com). Twilio-powered communications for Chromis. Uses Twilio Numbers, Voice, Messaging, TaskRouter, Chat.
 
 **Intuitive Technology, Technical Support Manager (2006-2008)**
 
-Intuitive Technology was a software startup building VoIP telephone systems with open source software. I managed the technical support department and worked escalated cases. I wrote administrator guides for our products and tested new releases.
+Software startup building VoIP telephone systems with open source software. I managed the technical support department, worked escalated cases, wrote administrator guides, and tested new releases.
 
 **Qwest, Sales Engineer for National Accounts  (2001-2006)**
 
-Designed Cisco and Nortel VoIP telephone systems, created and presented sales presentations, wrote scope of work documentation to hand off projects to project management and implementation teams.
+Designed Cisco and Nortel VoIP telephone systems, sales presentations, wrote scope of work documentation, liaison to project management and implementation teams.
 
 
 Languages
