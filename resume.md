@@ -3,10 +3,7 @@ Jonathan Rusk
 
 ----
 
->  Will work for food.
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  I want to challenge and be challenged.
 
 ----
 
@@ -14,74 +11,60 @@ Education
 ---------
 
 2004-2006
-:   **Bachelor of Science**; DeVry University (Phoenix, AZ)
+:   **Bachelor of Science, Computer Information Systems**; DeVry University (Phoenix, AZ)
 
-    *foo bar*
+    *Business, information technology, systems, programming. GPA 4.0.*
 
 Experience
 ----------
 
-**Chromis Technology, Founder, co-owner, President:**
+**Chromis Technology, Founder, President:**
 
-Open source telephony, sales, installation, support, software development.
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
 
-* First item
+Open source telephony, sales, installation, support, software development. I started Chromis to provide open source telephony services and products. Chromis is 9 years old. The past 2 years I've created software for our existing customers as well as working towards a product to reach a wider market.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+Following are examples of my work:
 
-**That Other Job You Had**
+* Asterisk VoIP solutions (open source telephony) - pre sales engineering, sales, installation, technical support, custom integrations
 
-Also with a short description.
+* [Frontnumber.com](https://www.frontnumber.com). Web app to buy numbers, forward SMS and voice, and message using a web front end. Uses Twilio Numbers, Voice, Messaging; Bandwidth.com Numbers, Voice, Messaging; Plivo Numbers, Voice, Messaging. Frontnumber uses multiple providers to increase the breadth of available numbers. Technologies: Python Flask, Redis, Postgres, JavaScript, ReactJS, Bootstrap, Docker, gunicorn, nginx, haproxy, certbot.
+
+* [PhoneX.io](https://www.phonex.io). Web app to use a browser to make calls to a North American phone number. Uses Twilio Voice and Client. Technologies: Python Flask, Redis, Postgres, JavaScript, Bootstrap, Docker, gunicorn, nginx, haproxy, certbot.
+
+* [ChromisNumber](https://www.chromisvoip.com). Twilio-powered communications for Chromis. Uses Twilio Numbers, Voice, Messaging, Taskrouter, Twiml, Chat. Technologies: Python Flask RESTful API backend, ReactJS front end, SemanticUI, Docker, gunicorn, nginx, haproxy, certbot.
+
+**Intuitive Technology, Technical Support Manager**
+
+Intuitive Technology was a software startup building VoIP telephone systems with open source software. I managed the technical support department and worked escalated cases. I also wrote administrator guides for our products and tested new releases.
+
+**Qwest, Sales Engineer for National Accounts**
+
+Designed Cisco and Nortel VoIP telephone systems, created and presented sales presentations, wrote scope of work documentation to hand off projects to project management and implementation teams.
+
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
 Programming Languages
-:   **Python:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
 
-:   **Javascript:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
+:   **Python:** my primary language, mostly Flask web apps and APIs
 
-[ref]: https://github.com/githubuser/superlongprojectname
+:   **Javascript:** my secondary language, mostly front end using either React or jQuery with raw JS
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+:   **school/tutorial languages:*** Go, Java, Ruby
+
+[ref]: https://github.com/jrusk
+
+Info
+----
 
 * Human Languages:
 
      * English (native speaker)
      * Spanish
 
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+* Other
 
 ----
 
