@@ -22,7 +22,7 @@ Experience
 
 
 
-Open source telephony, pre sales engineering, sales, installation, support, software development. I started [Chromis](https://chromis.com) in 2008 to help customers with open source telephony but in the past 2 years I've been moving Chromis towards software development. I created software for our existing customers as well as working on side products so that we can reach a new market.
+Open source telephony, pre sales engineering, sales, installation, support, software development. I started [Chromis](https://chromis.com) in 2008 to help customers with open source telephony and in the past 2 years I've been moving Chromis towards software development. I created software for our existing customers as well as working on side products to reach new markets.
 
 Following are examples of my work:
 
