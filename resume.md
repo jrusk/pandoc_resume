@@ -22,11 +22,11 @@ Experience
 
 
 
-Open source telephony, sales, installation, support, software development. I started Chromis in 2008 to help customers with open source telephony but in the past 2 years I've been moving Chromis towards software development. I created software for our existing customers as well as working on side products so that we can reach a new market.
+Open source telephony, pre sales engineering, sales, installation, support, software development. I started Chromis in 2008 to help customers with open source telephony but in the past 2 years I've been moving Chromis towards software development. I created software for our existing customers as well as working on side products so that we can reach a new market.
 
 Following are examples of my work:
 
-* Asterisk-based VoIP solutions (open source telephony using [http://www.asterisk.org](http://www.asterisk.org)) - pre sales engineering, sales, installation, technical support, custom integrations
+* Organizations I've serviced at Chromis: Orange Lake Resorts, Symantec, Clark County School District, Interthinx (acquired by First American Mortgage Solutions), Northrop Grumman, Tucson Orthopaedic Institute, Goodwill of Central Arizona, Basis Charter Schools
 
 * [Frontnumber.com](https://www.frontnumber.com). Web app to buy numbers, forward SMS and voice, and message using a web front end. Uses Twilio Numbers, Voice, Messaging; Bandwidth.com Numbers, Voice, Messaging; Plivo Numbers, Voice, Messaging. Frontnumber uses multiple providers to increase the breadth of available numbers. Technologies: Python Flask, Redis, Postgres, JavaScript, ReactJS, Bootstrap, Docker, gunicorn, nginx, haproxy, certbot.
 
@@ -36,7 +36,7 @@ Following are examples of my work:
 
 **Intuitive Technology, Technical Support Manager**
 
-Intuitive Technology was a software startup building VoIP telephone systems with open source software. I managed the technical support department and worked escalated cases. I also wrote administrator guides for our products and tested new releases.
+Intuitive Technology was a software startup building VoIP telephone systems with open source software. I managed the technical support department and worked escalated cases. I wrote administrator guides for our products and tested new releases.
 
 **Qwest, Sales Engineer for National Accounts**
 
