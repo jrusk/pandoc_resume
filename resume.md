@@ -20,7 +20,7 @@ Following are examples of my work:
 
 * [ChromisNumber](https://www.chromisvoip.com). Twilio-powered communications for Chromis. Uses Twilio Numbers, Voice, Messaging, TaskRouter, Chat.
 
-**Intuitive Technology, Technical Support Manager (2006-2008)**
+**Intuitive Technology, Technical Support Manager (2006-2007)**
 
 Software startup building VoIP telephone systems with open source software. I managed the technical support department, worked escalated cases, wrote administrator guides, and tested new releases.
 
@@ -54,7 +54,7 @@ Human
 Education
 ---------
 
-2004-2006
+2002-2004
 :   **Bachelor of Science, Computer Information Systems**; DeVry University
 
     *Business, information technology, systems, programming. GPA 4.0.*
