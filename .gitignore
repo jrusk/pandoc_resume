@@ -1,6 +1,6 @@
 *.tuc
 *.log
-*.pdf
+# *.pdf
 *.html
 resume.tex
 *.swo
